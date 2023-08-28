@@ -1,3 +1,10 @@
+/********************
+ * v1.0
+ * 2023-08-28
+ *********************/
+
+
+
 import java.util.Scanner;
 
 public class Main {
