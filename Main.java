@@ -45,7 +45,7 @@ public class Main {
                 ans = div(num1,num2);
                 break;    
         }
-
+//1
         System.out.println("정답은 : " + ans);
     }
 }
