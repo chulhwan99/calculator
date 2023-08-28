@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class Main {
 
     public static double add(double x, double y){
-        return 1;
+        return x + y;
     }
     public static double sub(double x, double y){
-        return 1;
+        return x - y;
     }
     public static double multi(double x, double y){
         return 1;
