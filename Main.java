@@ -46,6 +46,6 @@ public class Main {
                 break;    
         }
 
-        System.out.println("정답은 : " + ans);
+        System.out.println("정답은 : " + ans+"입니다");
     }
 }
