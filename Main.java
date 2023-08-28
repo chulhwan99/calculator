@@ -12,7 +12,7 @@ public class Main {
         return 1;
     }
     public static double div(double x, double y){
-        return 1;
+        return x/y;
     }
     public static void main(String[] args) {
         System.out.println("please enter a expression : ");
