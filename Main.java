@@ -47,5 +47,6 @@ public class Main {
         }
 
         System.out.println("정답은 : " + ans);
+        //2
     }
 }
