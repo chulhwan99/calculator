@@ -15,7 +15,7 @@ public class Main {
         return x/y;
     }
     public static void main(String[] args) {
-        System.out.println("please enter a expression : ");
+        System.out.println("please enter a expression(ex 1 + 2) : ");
 
         Scanner scan = new Scanner(System.in);
         double num1,num2,ans=0;
