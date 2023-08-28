@@ -9,7 +9,7 @@ public class Main {
         return 1;
     }
     public static double multi(double x, double y){
-        return 1;
+        return x * y;
     }
     public static double div(double x, double y){
         return 1;
