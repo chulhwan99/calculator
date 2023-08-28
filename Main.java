@@ -24,7 +24,21 @@ public class Main {
         operator = scan.next().charAt(0);
         num2 = scan.nextDouble();
 
-        
+        switch(operator){
+            case '+':
+                ans = add(num1,num2);
+                break;
+            case '-':
+                ans = sub(num1,num2);
+                break;
+            case '*':
+                ans = multi(num1,num2);
+                break;
+            case '/':
+                ans = div(num1,num2);
+                break;    
+        }
+
         System.out.println("정답은 : " + ans);
     }
 }
